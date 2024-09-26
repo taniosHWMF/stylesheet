@@ -1,6 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Orbitron");
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
 
 /* To Change all*/
 :host{
-  --fonts-default: 'Orbitron', sans-serif;
+  --fonts-default: 'Tangerine', sans-serif;
 }
