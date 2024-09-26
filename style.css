@@ -1,11 +1,5 @@
-@import url("https://fonts.google.com/share?selection.family=Source+Code+Pro");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
 
-/* To change specicif part of the chatbot */
-.vfrc-assistant-info--title{
-  --fonts-default: 'Source Code Pro';
-}
-
-/* To Change all*/
 :host{
-  --fonts-default: 'Sevillana', cursive;
+  --fonts-default: 'Roboto';
 }
