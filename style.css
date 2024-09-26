@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Sevillana");
+@import url("https://fonts.google.com/share?selection.family=Source+Code+Pro");
 
 /* To change specicif part of the chatbot */
 .vfrc-assistant-info--title{
-  --fonts-default: 'Sevillana', cursive;
+  --fonts-default: 'Source Code Pro', ital;
 }
 
 /* To Change all*/
