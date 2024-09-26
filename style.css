@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
 
 :host{
-  --fonts-default: 'Roboto', normal;
+  --fonts-default: 'Tangerine', serif;
 }
