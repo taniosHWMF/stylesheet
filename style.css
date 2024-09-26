@@ -2,5 +2,5 @@
 
 /* To Change all*/
 :host{
-  --fonts-default: 'Orbitron', serif;
+  --fonts-default: 'Orbitron', sans-serif;
 }
