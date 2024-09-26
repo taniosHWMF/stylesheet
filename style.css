@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Tangerine&display=swap');
 
 :host {
-  --fonts-default: 'Tangerine', sans-serif;
+  --fonts-default: 'Tangerine', serif;
 }
 
 body {
