@@ -1,5 +1,5 @@
 @import url("https://fonts.google.com/share?selection.family=Bungee");
 
 :host {
-    --fonts-default: 'Bungee';
+    --fonts-default: 'Bungee', regular;
 }
