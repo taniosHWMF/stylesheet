@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Jaro");
 
-:host{
+.vfrc-system-response--list{
   --fonts-default: 'Jaro', cursive;
 }
