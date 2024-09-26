@@ -1,11 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
+@import url("https://fonts.google.com/share?selection.family=Bungee");
 
 :host {
-    --fonts-default: 'Sevillana';
-}
-
-/* Set the default font color to red */
-body {
-    font-family: var(--fonts-default);
-    color: red; /* Change font color to red */
+    --fonts-default: 'Bungee';
 }
