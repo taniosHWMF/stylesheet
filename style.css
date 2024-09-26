@@ -1,5 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Sevillana");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&display=swap");
 
-:host{
-  --fonts-default: 'Sevillana', cursive;
+:host {
+    --fonts-default: 'Sevillana', cursive;
+}
+
+/* Set the default font color to red */
+body {
+    font-family: var(--fonts-default);
+    color: red; /* Change font color to red */
 }
