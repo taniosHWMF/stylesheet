@@ -1,5 +1,5 @@
-@import url("https://fonts.googleapis.com/css2?family=Sevillana");
+@import url("https://fonts.googleapis.com/css2?family=Jaro");
 
 :host{
-  --fonts-default: 'Sevillana', normal;
+  --fonts-default: 'Jaro', cursive;
 }
