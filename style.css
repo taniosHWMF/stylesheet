@@ -3,3 +3,8 @@
 :host{
   --fonts-default: 'Sevillana', cursive;
 }
+
+body{
+  font-family: var(--fonts-default);
+  color: red; /* Change the color here */
+}
