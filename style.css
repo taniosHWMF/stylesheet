@@ -1,5 +1,6 @@
-@import url("https://fonts.google.com/share?selection.family=Monoton");
+@import url("https://fonts.googleapis.com/css2?family=Sevillana");
 
-:host {
-    --fonts-default: 'Monoton';
+/* To Change all*/
+:host{
+  --fonts-default: 'Sevillana', cursive;
 }
