@@ -2,7 +2,7 @@
 
 /* To change specicif part of the chatbot */
 .vfrc-assistant-info--title{
-  --fonts-default: 'Source Code Pro', ital;
+  --fonts-default: 'Source Code Pro';
 }
 
 /* To Change all*/
